@@ -185,4 +185,7 @@
 
 .chat__footer {
   margin-top: auto;
+  position: relative;
+  right: -50%;
+  animation: rightToLeft 0.75s forwards ease-in-out;
 }
